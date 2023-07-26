@@ -1,4 +1,4 @@
-# webdev-projects
+# weather app
 
 1.weatherapp
 
